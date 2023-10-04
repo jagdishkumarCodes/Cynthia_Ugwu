@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../Javascript"
+		},
+		{
+			"path": "../../Javascript by code with harry"
+		},
+		{
+			"path": "../../javascript by Sheryians coding school"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../web projects/HTML_CSS_JS"
+		},
+		{
+			"path": "../../../web projects/HTML  CSS Project/amazon"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Front-end Web Projects"
+	}
+}
